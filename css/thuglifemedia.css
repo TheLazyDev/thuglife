@@ -1,0 +1,116 @@
+#menubar {
+    height: 150px;
+}
+
+#menu {
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 10px;
+    padding: 5px;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+#imagecontainer {
+    margin-left: 70px;
+}
+
+.navbars {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    width: 120px;
+}
+
+#subdiv {
+    
+    margin-top: 150px;
+}
+
+p {
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+#features {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    width: 400px;
+    height: 350px;
+}
+
+#featurestext {
+     margin-top: 20px;
+    margin-left: 150px;
+     font-size: 20px;
+
+}
+
+
+#featureslist {
+    margin-top: 3px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+
+#info {
+    font-size: 18px;
+    font-family: cursive;
+    margin-top: 20px;
+    margin-left:20px;
+    
+}
+
+
+#downloads {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+#downloadchart {
+    
+    height: 200px;
+    width: 150px;
+    margin-top:50px;
+    margin-left: 60px;
+}
+
+#downloadtext {
+     margin-top: 20px;
+    margin-left: 150px;
+     font-size: 20px;
+    float: left;
+}
+
+
+#foot {
+    margin-top: 50px;
+    height: 100px;
+}
+
+.downloadtable{
+    
+    width: 50px;
+    
+    
+    font-size: 17px;
+}
+
+
+
+#credits {
+    margin-top:10px;
+    margin-left: 80px;
+    float: left;
+    
+}
