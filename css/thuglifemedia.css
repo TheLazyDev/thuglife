@@ -3,7 +3,7 @@
 }
 
 #mainDiv {
-    width: 450px;
+    width: 400px;
     height: auto;
     margin: 0;
 }
@@ -44,7 +44,7 @@ p {
 
 #features {
     margin-left: 10px;
-    margin-right:20px;
+    margin-right:10px;
     margin-top: 50px;
     width: 400px;
     height: 350px;
@@ -77,7 +77,7 @@ p {
 
 #downloads {
     margin-left: 10px;
-    margin-right:20px;
+    margin-right:10px;
     margin-top: 50px;
     width: 400px;
     height: 400px;
