@@ -38,6 +38,7 @@ p {
 
 #features {
     margin-left: 10px;
+    margin-right:20px;
     margin-top: 50px;
     width: 350px;
     height: 350px;
@@ -70,6 +71,7 @@ p {
 
 #downloads {
     margin-left: 10px;
+    margin-right:20px;
     margin-top: 50px;
     width: 350px;
     height: 400px;
